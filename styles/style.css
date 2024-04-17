@@ -54,7 +54,7 @@
     top: 202px;
     left: 828px;
   }
-  .img3{
+ .img3{
     width: 59px;
     height: 64px;
     position: absolute;
@@ -62,7 +62,7 @@
     left: 1168px;
     rotate: -0 deg;
   }
-  .main2 p{
+.main2 p{
     width: 404px;
     height: 58px;
     font-weight: 700;
@@ -149,3 +149,43 @@
         margin-left: 148px;
         margin-top: 67px;
        }
+    .ellipse{
+        width: 196px;
+        height: 154px;
+        left: 973px;
+       }
+       .img4{
+        width: 1146px;
+        height: 462px;
+        position: relative;
+        top: 46px;
+        left: 148px;
+        right: 146px;
+        border-radius: 5px;
+        margin-top: 20px;
+       }
+       .txt4{
+        width: 305px;
+        height: 56px;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 56.25px;
+        color: #FFFFFF;
+        margin-left: 574px;
+        white-space: nowrap;
+       }
+       .txt5{
+        width: 497px;
+        height: 57px;
+        font-weight:400;
+        font-size: 14px;
+        line-height: 26.25px;
+        color: #FFFFFF;
+        margin-top: 15px;
+        text-align: center;
+        margin-left: 472px;
+       }
+       .main4{
+        margin-top: 148px;
+       }
+   
