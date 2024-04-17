@@ -173,7 +173,6 @@
         font-weight: 700;
         font-size: 30px;
         line-height: 56.25px;
-        color: #FFFFFF;
         margin-left: 574px;
         white-space: nowrap;
        }
@@ -183,7 +182,6 @@
         font-weight:400;
         font-size: 14px;
         line-height: 26.25px;
-        color: #FFFFFF;
         margin-top: 15px;
         text-align: center;
         margin-left: 472px;
@@ -231,4 +229,78 @@
         font-size: 20px;
         line-height: 37.5px;
         font-family: "Rubik", sans-serif;
+       }
+       .item4{
+        margin-left: 136px;
+        margin-top: 105px;
+       }
+       .item4 .p1{
+        font-weight: 600;
+        font-size: 30px;
+        line-height: 56.25px;
+       }
+       .item4 .p2{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 30px;
+        margin-top: 32px;
+        color: var(--white);
+       }
+       .box{
+        width: 1170px;
+        height: 189px;
+        background-color:var(--black-100);
+        margin-left: 136px;
+        margin-top: 74px;
+        margin-right: 134px;
+       }
+       .bx1 .p1{
+        width: 303px;
+        height: 45px;
+        font-weight: 500;
+        font-size: 30px;
+        line-height: 45px ;
+       }
+       .bx1{
+        margin-left: 56px;
+        margin-top: 40px;
+       }
+       .bx1 .p2{
+        font-weight: 400;
+        font-size: 17px;
+        line-height:25.5px ;
+        margin-top: 10px;
+       }
+       .bx2 .email{
+        margin-left: 20.55px;
+        font-weight: 300;
+        font-size: 15px;
+        line-height: 19.5px;
+        color:#898989;
+        width: 155.1px;
+        height: 20px;
+        padding-top: 14px;
+       } 
+       .bx2{
+        width: 385.68px;
+        height: 48px;
+        background-color:var(--white);
+        gap: 98.8px;
+        margin-top: 71px;
+        margin-right: 50px;
+       }
+       .bx2 .b5{
+        width: 105px;
+        height: 37px;
+        border-radius: 8px;
+        background-color:var(--secondary);
+        margin-top: 6px;
+        margin-right: 6.24px;
+       }
+       .bx2 .b5 p{
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 19.5px;
+        color:var(--white);
+        margin-left: 16px;
        }
