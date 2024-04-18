@@ -304,3 +304,18 @@
         color:var(--white);
         margin-left: 16px;
        }
+       .group2 .a1 .bar #rec1{
+        width: 30.97px;
+        height: 4px;
+        background-color: #FA8305;
+        border-radius: 20px;
+      }
+      .group2 .a1 .bar #rec2{
+        width: 5px;
+        height: 4px;
+        border-radius: 20px;
+        background-color: #FA8305;
+      }
+      .group2 .a1 .bar{
+        gap: 5px;
+      }
