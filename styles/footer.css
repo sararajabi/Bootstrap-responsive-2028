@@ -37,3 +37,55 @@
     line-height: 29.81px;
     margin-top: 15px ;
   }
+  .ftr .ftr3 .p1{
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 25.5px;
+  }
+  .ftr .ftr3 .p2{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 20px;
+  }
+  .ftr .ftr3 .p3{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 11px;
+  }
+  .ftr1{
+    margin-top: 79px;
+    left: 101px;
+  }
+  .ftr2{
+    margin-top: 79px;
+    left: 551px;
+  }
+  .ftr3{
+    margin-top: 79px;
+    left: 771px;
+  }
+  .ftr4 {
+    width: 50x;
+    height: 50px;
+    margin-top: 196px;
+    left: 1136px;
+  }
+  .footer .copy{
+    margin-top: 322px;
+    margin-left: 588px;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 24.78px;
+    white-space: nowrap;
+  }
+  .footer .copy b{
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 24.78px;
+  }
+  .footer hr{
+    bottom: 65px;
+    color: var(--gray-100);
+  }
