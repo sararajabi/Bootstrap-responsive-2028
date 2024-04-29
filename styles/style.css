@@ -126,26 +126,32 @@
         margin-top: 57px;
        }
     .txt1{
+      width: 826px;
+      height: 132px;
         font-weight: 600;
         font-size: 35px;
-        line-height: 65.63px;
         margin-top: 129px;
-       }
-    .txt2{
+    }
+  .txtt{
+    margin-top: 100px;
+  }
+  .section-3{
+    width: 600px;
+    height: 173px;
+    margin-top: 67px;
+    margin-left: 150px;
+    margin-bottom: 46px;
+  }
+     .txt2{
         font-weight: 600;
         font-size: 30px;
-        line-height: 56.25px;
        }
-    .txt3{
+     .txt3{
+      
         font-weight: 400;
         font-size: 16px;
-        line-height: 30px;
         margin-top: 32px;
-        white-space: nowrap;
-       }
-    .main3{
-        margin-left: 148px;
-        margin-top: 67px;
+        
        }
     .ellipse{
         width: 196px;
@@ -157,7 +163,7 @@
         height: 462px;
         position: relative;
         top: 46px;
-        left: 148px;
+        left: 70px;
         right: 146px;
         border-radius: 5px;
         margin-top: 20px;
@@ -332,6 +338,32 @@
           .ul1 div{
             margin-left: 65px;
         }
+        .txt1{
+          
+          font-weight: 600;
+          font-size: 30px;
+          
+          width: 627px;
+        }
+        .section-3{
+          width: 600px;
+          height: 173px;
+          margin-top: 33px;
+          margin-left: 118px;
+        }
+        .img4{
+          width: 573px;
+          height: 462px;
+          position: relative;
+          top: 46px;
+          left: 60px;
+          right: 146px;
+          border-radius: 5px;
+          margin-top: 20px;
+         }
+         .itm1{
+          margin-top: 100px;
+         }
       }
       @media (width<=480px){
         .main1.group8{
@@ -347,6 +379,29 @@
          .ul1 div{
           margin-left: 120px;
       }
+      .txt1{
+        width: 452px;
+        font-weight: 600;
+        font-size: 24px;
+        margin-top: 70px;
+      }
+      .section-3{
+        width: 452px;
+        margin-left: 8px;
+      }
+      .img4{
+        width: 352px;
+        height: 388px;
+        position: relative;
+        top: 25px;
+        left: 50px;
+        right: 146px;
+        border-radius: 5px;
+        margin-top: 20px;
+       }
+       .sec4{
+        margin-top: 25px;
+       }
       }
       
   
