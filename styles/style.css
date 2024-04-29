@@ -169,56 +169,28 @@
         margin-top: 20px;
        }
     .txt4{
-        width: 305px;
-        height: 56px;
+       
         font-weight: 700;
         font-size: 30px;
-        line-height: 56.25px;
-        margin-left: 574px;
+        
+        
         white-space: nowrap;
        }
     .txt5{
-        width: 497px;
-        height: 57px;
+       
         font-weight:400;
         font-size: 14px;
-        line-height: 26.25px;
         margin-top: 15px;
         text-align: center;
-        margin-left: 472px;
+       
        }
-    .main4{
-        margin-top: 148px;
-       }
-    .c1{
-        width: 371px;
-        height: 223px;
-     }
-     .c2{
-      width: 372px;
-      height: 223px;
-     }
-     .c3{
-      width: 371px;
-      height: 223px;
-     }
-     .c4{
-      width: 246px;
-      height: 223px;
-     }
-     .c5{
-      width: 401px;
-      height: 223px;
-     }
-     .c6{
-      width: 469px;
-      height: 223px;
-     }
+  
+  
      .item2{
-        gap: 27px;
-        margin-left: 136px;
-        margin-right: 134px;
-        margin-top: 71px;
+        margin-top: 100px;
+       }
+       .item-2{
+        margin-top: 100px;
        }
     .item3 .btn{
         width: 139px;
@@ -364,6 +336,31 @@
          .itm1{
           margin-top: 100px;
          }
+         .c1{
+          width: 352px;
+          height: 223px;
+       }
+       .c2{
+        width: 280px;
+        height: 223px;
+       }
+       .c3{
+        width: 305px;
+        height: 223px;
+       }
+       .c4{
+        width: 335px;
+        height: 223px;
+        
+       }
+       .c5{
+        width: 246px;
+        height: 223px;
+       }
+       .c6{
+        width: 401px;
+        height: 223px;
+       }
       }
       @media (width<=480px){
         .main1.group8{
