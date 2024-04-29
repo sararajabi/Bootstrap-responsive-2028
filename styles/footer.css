@@ -1,4 +1,4 @@
-.footer{
+.bg-box{
     width: 1440px;
     height: 376px;
     background-color: var(--black-200);
@@ -56,21 +56,24 @@
   }
   .ftr1{
     margin-top: 79px;
-    left: 101px;
+    
   }
   .ftr2{
     margin-top: 79px;
-    left: 551px;
+    
   }
   .ftr3{
     margin-top: 79px;
-    left: 771px;
+    
   }
   .ftr4 {
     width: 50x;
     height: 50px;
     margin-top: 196px;
-    left: 1136px;
+  
+  }
+  .ftr{
+    margin-top: 100px;
   }
   .footer .copy{
     margin-top: 322px;

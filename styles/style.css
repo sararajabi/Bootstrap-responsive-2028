@@ -196,43 +196,40 @@
         width: 139px;
         height:57px ;
         background-color: var(--primary-100);
-        margin-left: 651px;
         margin-top: 72px;
+        margin-left: 550px;
         font-weight: 500;
         font-size: 20px;
         line-height: 37.5px;
         font-family: "Rubik", sans-serif;
        }
        .item4{
-        margin-left: 136px;
-        margin-top: 105px;
+        
+        margin-top: 58px;
        }
        .item4 .p1{
         font-weight: 600;
         font-size: 30px;
-        line-height: 56.25px;
        }
        .item4 .p2{
         font-weight: 400;
         font-size: 16px;
-        line-height: 30px;
-        margin-top: 32px;
+        margin-top: 10px;
         color: var(--white);
        }
        .box{
         width: 1170px;
         height: 189px;
         background-color:var(--black-100);
-        margin-left: 136px;
+        margin-left: 50px;
         margin-top: 74px;
         margin-right: 134px;
        }
        .bx1 .p1{
-        width: 303px;
-        height: 45px;
+       
         font-weight: 500;
         font-size: 30px;
-        line-height: 45px ;
+        
        }
        .bx1{
         margin-left: 56px;
@@ -241,7 +238,6 @@
        .bx1 .p2{
         font-weight: 400;
         font-size: 17px;
-        line-height:25.5px ;
         margin-top: 10px;
        }
        .bx2 .email{
@@ -361,6 +357,44 @@
         width: 401px;
         height: 223px;
        }
+       .item3 .btn{
+        width: 139px;
+        height:57px ;
+        background-color: var(--primary-100);
+        margin-left: 300px;
+        margin-top: 30px;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 37.5px;
+        font-family: "Rubik", sans-serif;
+       }
+       .ftr1{
+        margin-top: 79px;
+        
+      }
+      .ftr2{
+        margin-top: 79px;
+      
+      }
+      .ftr3{
+        margin-top: 79px;
+        
+      }
+      .ftr4 {
+        width: 50x;
+        height: 50px;
+        margin-top: 196px;
+      
+      }
+      .bg-b0x{
+        width: 775px;
+        height: 800px;
+      }
+      .box{
+        width: 570px;
+        height: 280px;
+    
+       }
       }
       @media (width<=480px){
         .main1.group8{
@@ -399,6 +433,18 @@
        .sec4{
         margin-top: 25px;
        }
+       .item3 .btn{
+        margin-left: 170px;
+        margin-top: 30px;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 37.5px;
+        font-family: "Rubik", sans-serif;
+       }
+       .bg-b0x{
+        width: 484.23px;
+        height: 685px;
       }
-      
+     
+  }
   
