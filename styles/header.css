@@ -19,51 +19,67 @@
   }
   /* good luck */
   body{
-    width: 1440px;
-    font-family: "Poppins", sans-serif !important; 
+    
+    font-family: "Poppins", sans-serif !important;
   }
-
-  .header{
-    background-color: var(--primary);
-    height:100px ;
-    width: 1438.77px;
-    z-index: 9; 
-  }
-  .div1{
-    gap: 565.52px;
-    margin-left:58.95px ;
-
-  }
-  .div1 #logo{
-    margin-top: 25px;
-    font-weight: 800;
-    font-size: 29px;
-    line-height: 44.51px;
-  }
-  .group3{
-    gap:36.13px ;
-  }
-  .group2{
-    gap: 88px;
-    margin-top: 40px;
-  }
-  .group2 a{
-    text-decoration: none;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-  }
-  .group3 .btn{
-    background-color: var(--secondary);
-    width: 131.66px;
-    height: 41.34px;
-    font-weight: 400;
-    font-size: 13px;
-    line-height: 19.5px;
-    margin-top: 32px;
-   
-  }
+ 
   .main{
     background-color: var(--primary);
+   
   }
+  .background-1{
+    background-color: var(--primary);
+}
+.width-1440{
+    width: 1440px;
+}
+.font-poppins{
+    font-family: Poppins;
+}
+.font-w-400{
+    font-weight: 400;
+}
+.navbar-brand.font-s-29{
+    font-size: 29px;
+}
+.navbar-brand.font-w-800{
+    font-weight: 700;
+}
+.height-100{
+    height: 100px;
+}
+.navbar-brand.ml-58{
+    margin-left: 47px;
+}
+.navbar-brand.mt-12{
+    margin-top:px;
+}
+.light-button{
+    font-weight: 400px;
+    font-size: 13px;
+    width: 131.66px;
+    height: 41.34px;
+    margin-right: 48px;
+}
+.mt-25{
+    margin-top: 10px;
+}
+.mr-32{
+    margin-right: 25px;
+}
+.mr-59{
+    margin-left: 520px;
+}
+.ml-88{
+    margin-left: 88px;
+}
+.btn.btn-background{
+    font-weight: 400px;
+    font-size: 13px;
+    line-height: 19.5px;
+    margin-top: 20px;
+    background-color: var(--secondary);
+}
+
+ 
 
